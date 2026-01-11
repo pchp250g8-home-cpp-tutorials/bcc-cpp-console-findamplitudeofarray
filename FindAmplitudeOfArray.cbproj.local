@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.01.11 12:46:26.440,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.11 12:46:26.637,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.01.11 12:47:40.250,D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindAmplitudeOfArray\FindAmplitudeOfArrayPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.11 12:47:40.271,D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindAmplitudeOfArray\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.01.11 12:47:40.286,D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindAmplitudeOfArray\FindAmplitudeOfArray.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.01.11 12:47:49.457,D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindAmplitudeOfArray\FindAmplitudeOfArray.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindAmplitudeOfArray\File1.cpp</Transaction>
+    <Transaction>2026.01.11 12:47:52.504,D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindAmplitudeOfArray\FindAmplitudeOfArray.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindAmplitudeOfArray\FindAmplitudeOfArray.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
