@@ -24,7 +24,7 @@ The program does the following:
    7. The maximum and minimum elements of the array and the range of the series are displayed on the screen.
       Calculated as the difference between the maximum and minimum elements of the array (the values ​​are taken).
 
-Developed in the Embarcadero Rad Studio IDE integrated environment.
+Developed in the Embarcadero Rad Studio integrated environment.
 
 ИС Embarcadero Rad Studio. Занятия по C++. Простой Ввод/Вывод. Алгоритмы. Массивы. Платформа Windows. Консольное приложение.
 
